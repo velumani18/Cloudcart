@@ -1,0 +1,10 @@
+email,name,role
+alex.carter@example.com,Alex Carter,Senior Frontend Developer
+sarah.lin@example.com,Sarah Lin,Product Manager
+michael.brown@example.com,Michael Brown,DevOps Engineer
+priya.patel@example.com,Priya Patel,Data Scientist
+david.kim@example.com,David Kim,Backend Architect
+alex.carter@example.com,Alex Carter (Duplicate),Duplicate Entry
+invalid-email-syntax-test,Bad Email,Test Reject
+emily.watson@example.com,Emily Watson,QA Lead
+james.wilson@example.com,James Wilson,Technical Writer
